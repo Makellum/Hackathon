@@ -1,6 +1,7 @@
-<p align="center">
+<div align="center">
 <h1>Carbon Footprint</h1><br>
 <img src="https://github.com/Makellum/Hackathon/blob/master/carbon-footprint-blog.png" width="200" height="200"><br>
+  </div>
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Makellum/Hackathon">
 
 Summary: As a User, I should be able to learn what my carbon footprint is, so that I can learn ways to reduce my carbon footprint.<br>
@@ -9,5 +10,6 @@ GIVEN: Users are able to find their carbon footprint  in the api.<br>
 WHEN: The app hits the server endpoint with a valid request, containing user input.<br>
 THEN: The app should receive their carbon footprint for their digital technology.<br>
 AND: In the response, the following information should be returned: based on household numbers a guess on how much carbon footprint your household uses.<br>
+<div align="center">
 <img src="https://github.com/Makellum/Hackathon/blob/master/gif1.gif" width="200" height="200"><br>
-</p>
+ </div>
