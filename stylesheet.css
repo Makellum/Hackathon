@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(#000B42 50%, white 50%);
+    background: linear-gradient(#000B42 70%, white 30%);
     margin: 0;
     padding: 0;
 }
@@ -22,3 +22,16 @@ p {
     font-size: 60px;
     margin-top: 0px;
   }
+
+.main {
+    text-align: justify;
+    border: 10px solid;
+    border-color:  lightgray;
+    font-size: 34px;
+}
+
+.inline-block {
+    display: inline-block;
+    position: center;
+    margin: 16px 4px;
+ }
