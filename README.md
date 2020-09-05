@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Carbon Footprint</h1><br>
-<img src="https://github.com/Makellum/Hackathon/blob/master/carbon-footprint-blog.png" width="200" height="200"><br>
+<img src="https://github.com/Makellum/Hackathon/blob/master/img/carbon-footprint-blog.png" width="200" height="200"><br>
   </div>
   <p float="left">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Makellum/Hackathon">
@@ -14,5 +14,5 @@ WHEN: The app hits the server endpoint with a valid request, containing user inp
 THEN: The app should receive their carbon footprint for their digital technology.<br>
 AND: In the response, the following information should be returned: based on household numbers a guess on how much carbon footprint your household uses.:recycle:<br>
 <div align="center">
-<img src="https://github.com/Makellum/Hackathon/blob/master/gif1.gif" width="200" height="200"><br>
+<img src="https://github.com/Makellum/Hackathon/blob/master/img/gif1.gif" width="200" height="200"><br>
  </div>
