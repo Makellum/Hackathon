@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Carbon Footprint</h1><br>
-<img src="https://github.com/Makellum/Hackathon/blob/master/img/carbon-footprint-blog.png" width="200" height="200"><br>
+<img src="https://github.com/Makellum/Hackathon/blob/master/img/carbon-footprint-blog.png" width="250" height="200"><br>
   </div>
   <p float="left">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Makellum/Hackathon">
@@ -16,3 +16,5 @@ AND: In the response, the following information should be returned: based on hou
 <div align="center">
 <img src="https://github.com/Makellum/Hackathon/blob/master/img/gif1.gif" width="200" height="200"><br>
  </div>
+
+
